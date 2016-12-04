@@ -17,6 +17,18 @@
         android:layout_height="wrap_content" />
 
 
+    <Button
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="20dp"
+        android:id="@+id/customFacbookLogin"
+        android:text="Custom Login"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
 </RelativeLayout>
 
 
